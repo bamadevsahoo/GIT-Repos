@@ -1,0 +1,6 @@
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\bin\WCFSimpleCalculator.dll.config
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\bin\WCFSimpleCalculator.dll
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\bin\WCFSimpleCalculator.pdb
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\obj\Debug\WCFSimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\obj\Debug\WCFSimpleCalculator.dll
+C:\Assingment\WCFassingmentTask2\WCFSimpleCalculator\obj\Debug\WCFSimpleCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\bin\WCFassingmentTask2.dll.config
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\bin\WCFassingmentTask2.dll
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\bin\WCFassingmentTask2.pdb
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\obj\Debug\WCFassingmentTask2.dll
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\obj\Debug\WCFassingmentTask2.pdb
+C:\Assingment\WCFassingmentTask2\WCFassingmentTask2\obj\Debug\WCFassingmentTask2.csprojResolveAssemblyReference.cache
